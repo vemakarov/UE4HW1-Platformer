@@ -1,0 +1,1621 @@
+﻿Log file open, 11/02/20 03:16:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PlatfromerHW
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.084416
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060 with Max-Q Design
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/dev/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.02-00.16.25:686][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.02-00.16.25:686][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.02-00.16.25:686][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Engine.ini]
+[2020.11.02-00.16.25:686][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.02-00.16.25:686][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.11.02-00.16.25:686][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.11.02-00.16.25:686][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.11.02-00.16.25:686][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.11.02-00.16.25:686][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.11.02-00.16.25:686][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.11.02-00.16.25:686][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.11.02-00.16.25:686][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.11.02-00.16.25:686][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.11.02-00.16.25:686][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.11.02-00.16.25:686][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.11.02-00.16.25:687][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Engine.ini]
+[2020.11.02-00.16.25:688][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Engine.ini]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Engine.ini]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.02-00.16.25:688][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.02-00.16.25:689][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.02-00.16.25:689][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.02-00.16.25:689][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.02-00.16.25:689][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.02-00.16.25:689][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.02-00.16.25:689][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.02-00.16.25:689][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.02-00.16.25:689][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.02-00.16.25:689][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.02-00.16.25:689][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.02-00.16.25:689][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.02-00.16.25:689][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Engine.ini]
+[2020.11.02-00.16.25:689][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Engine.ini]
+[2020.11.02-00.16.25:691][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.02-00.16.25:691][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.02-00.16.25:692][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.02-00.16.25:692][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.02-00.16.25:692][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.02-00.16.25:694][  0]LogHAL: Display: Platform has ~ 16 GB [17136525312 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.02-00.16.25:694][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.02-00.16.25:695][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.02-00.16.25:695][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Scalability.ini]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.02-00.16.25:696][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/dev/PlatfromerHW/Saved/Config/Windows/Engine.ini]
+[2020.11.02-00.16.25:696][  0]LogInit: Computer: LAPTOP-NSSHGCPH
+[2020.11.02-00.16.25:696][  0]LogInit: User: admin
+[2020.11.02-00.16.25:696][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.11.02-00.16.25:696][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.02-00.16.25:696][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.11.02-00.16.25:696][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.02-00.16.25:696][  0]LogMemory: Process Physical Memory: 108.85 MB used, 108.85 MB peak
+[2020.11.02-00.16.25:696][  0]LogMemory: Process Virtual Memory: 100.93 MB used, 100.93 MB peak
+[2020.11.02-00.16.25:696][  0]LogMemory: Physical Memory: 9645.13 MB used,  6697.53 MB free, 16342.66 MB total
+[2020.11.02-00.16.25:697][  0]LogMemory: Virtual Memory: 5138.23 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.11.02-00.16.25:700][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.02-00.16.25:725][  0]LogInit: Using OS detected language (en-US).
+[2020.11.02-00.16.25:725][  0]LogInit: Using OS detected locale (ru-RU).
+[2020.11.02-00.16.25:726][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.11.02-00.16.25:923][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.02-00.16.25:975][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.02-00.16.25:975][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.02-00.16.26:151][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.02-00.16.26:152][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.02-00.16.26:152][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.02-00.16.26:152][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.02-00.16.26:222][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2020.11.02-00.16.26:222][  0]LogD3D11RHI:       6052/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.11.02-00.16.26:225][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.02-00.16.26:225][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.02-00.16.26:225][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.02-00.16.26:236][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.02-00.16.26:236][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.02-00.16.26:236][  0]LogWindows: EnumDisplayDevices:
+[2020.11.02-00.16.26:236][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:1 D:1)
+[2020.11.02-00.16.26:237][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.11.02-00.16.26:237][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.11.02-00.16.26:237][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.11.02-00.16.26:237][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.11.02-00.16.26:237][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2020.11.02-00.16.26:237][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.11.02-00.16.26:237][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.11.02-00.16.26:237][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.11.02-00.16.26:304][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.11.02-00.16.26:304][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.02-00.16.26:322][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.11.02-00.16.26:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.02-00.16.26:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.02-00.16.26:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.02-00.16.26:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.02-00.16.26:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.02-00.16.26:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.02-00.16.26:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.02-00.16.26:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.02-00.16.26:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.02-00.16.26:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.02-00.16.26:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.02-00.16.26:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.02-00.16.26:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.02-00.16.26:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.02-00.16.26:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.02-00.16.26:872][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.02-00.16.26:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.02-00.16.26:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.02-00.16.26:888][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.02-00.16.26:892][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.02-00.16.26:920][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (../../../../PlatfromerHW/Intermediate/Shaders/WorkingDirectory/35912/).
+[2020.11.02-00.16.26:920][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/admin/AppData/Local/Temp/UnrealShaderWorkingDir/EBE77FA8411512D2E619A6B0BA28DADB/'.
+[2020.11.02-00.16.26:920][  0]LogXGEController: Cleaning working directory: C:/Users/admin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.02-00.16.26:921][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.02-00.16.26:921][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.02-00.16.26:921][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.02-00.16.27:768][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.02-00.16.27:835][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/admin/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.11.02-00.16.27:835][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/admin/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.11.02-00.16.27:835][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../PlatfromerHW/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.02-00.16.27:835][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.02-00.16.27:835][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../PlatfromerHW/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.02-00.16.27:835][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.02-00.16.27:848][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.02-00.16.27:848][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.02-00.16.27:848][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.02-00.16.27:850][  0]LogDerivedDataCache: Using Local data cache path C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.02-00.16.27:850][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.02-00.16.27:850][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.02-00.16.27:889][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.11.02-00.16.27:893][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.02-00.16.27:893][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.02-00.16.27:946][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2020.11.02-00.16.28:279][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.02-00.16.28:499][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.02-00.16.28:499][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.02-00.16.28:499][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.02-00.16.28:499][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.02-00.16.28:499][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.02-00.16.28:511][  0]LogNetVersion: PlatfromerHW 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2573976935)
+[2020.11.02-00.16.29:602][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.038301 seconds
+[2020.11.02-00.16.29:609][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.11.02-00.16.29:609][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.11.02-00.16.29:609][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.02-00.16.30:046][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.02-00.16.30:049][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.02-00.16.30:105][  0]SourceControl: Source control is disabled
+[2020.11.02-00.16.30:105][  0]SourceControl: Source control is disabled
+[2020.11.02-00.16.30:106][  0]SourceControl: Source control is disabled
+[2020.11.02-00.16.30:108][  0]SourceControl: Source control is disabled
+[2020.11.02-00.16.30:109][  0]SourceControl: Source control is disabled
+[2020.11.02-00.16.30:196][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.02-00.16.30:211][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.02-00.16.30:211][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.02-00.16.30:306][  0]LogOcInput: OculusInput pre-init called
+[2020.11.02-00.16.30:313][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.02-00.16.30:313][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.02-00.16.30:381][  0]LogEngine: Initializing Engine...
+[2020.11.02-00.16.30:382][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.02-00.16.30:383][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.02-00.16.30:739][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.02-00.16.30:746][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.02-00.16.30:770][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.02-00.16.30:770][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.02-00.16.30:770][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.02-00.16.30:770][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.02-00.16.30:770][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.02-00.16.30:770][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.02-00.16.30:770][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.02-00.16.30:770][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.02-00.16.30:771][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.02-00.16.30:771][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.02-00.16.30:801][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.02-00.16.30:801][  0]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.11.02-00.16.30:801][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.11.02-00.16.30:801][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.02-00.16.30:801][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.02-00.16.30:801][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.02-00.16.30:801][  0]LogAudioMixer: Display: Channel Order:
+[2020.11.02-00.16.30:801][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.02-00.16.30:801][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.02-00.16.30:825][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.11.02-00.16.30:833][  0]LogInit: FAudioDevice initialized.
+[2020.11.02-00.16.30:833][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.02-00.16.30:891][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/admin/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.11.02-00.16.30:896][  0]LogInit: Texture streaming: Enabled
+[2020.11.02-00.16.30:908][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.02-00.16.30:909][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={91AADE66-4E92-9BC2-E0FE-FEA28AD1763E}
+[2020.11.02-00.16.30:909][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.02-00.16.30:910][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.02-00.16.30:970][  0]LogInit: Transaction tracking system initialized
+[2020.11.02-00.16.30:983][  0]BlueprintLog: New page: Editor Load
+[2020.11.02-00.16.31:016][  0]LocalizationService: Localization service is disabled
+[2020.11.02-00.16.31:056][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.11.02-00.16.31:056][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.11.02-00.16.31:056][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.11.02-00.16.31:325][  0]LogFileCache: Scanning file cache for directory 'D:/dev/PlatfromerHW/Content/' took 0.00s
+[2020.11.02-00.16.31:325][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.02-00.16.31:325][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.02-00.16.31:982][  0]SourceControl: Source control is disabled
+[2020.11.02-00.16.31:982][  0]Cmd: MAP LOAD FILE="../../../../PlatfromerHW/Content/PlatformerMain/Levels/level0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.02-00.16.31:982][  0]LightingResults: New page: Lighting Build
+[2020.11.02-00.16.31:983][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-00.16.31:983][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-00.16.31:983][  0]MapCheck: New page: Map Check
+[2020.11.02-00.16.31:983][  0]LightingResults: New page: Lighting Build
+[2020.11.02-00.16.32:009][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.11.02-00.16.32:361][  0]LogAIModule: Creating AISystem for world level0
+[2020.11.02-00.16.32:368][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.02-00.16.32:400][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.11.02-00.16.32:400][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.02-00.16.32:400][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2020.11.02-00.16.32:400][  0]LogFileHelpers: Loading map 'level0' took 0.419
+[2020.11.02-00.16.32:613][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.02-00.16.32:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.02-00.16.32:628][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.02-00.16.32:635][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.02-00.16.32:639][  0]LogCollectionManager: Loaded 0 collections in 0.000717 seconds
+[2020.11.02-00.16.32:650][  0]LogFileCache: Scanning file cache for directory 'D:/dev/PlatfromerHW/Saved/Collections/' took 0.00s
+[2020.11.02-00.16.32:650][  0]LogFileCache: Scanning file cache for directory 'D:/dev/PlatfromerHW/Content/Developers/admin/Collections/' took 0.00s
+[2020.11.02-00.16.32:650][  0]LogFileCache: Scanning file cache for directory 'D:/dev/PlatfromerHW/Content/Collections/' took 0.00s
+[2020.11.02-00.16.32:650][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 3015 classes and 717 folders.
+[2020.11.02-00.16.32:652][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.02-00.16.32:688][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.02-00.16.32:692][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.11.02-00.16.32:721][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.02-00.16.32:724][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.02-00.16.32:728][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.02-00.16.32:834][  0]LogRenderer: Reallocating scene render targets to support 904x396 Format 10 NumSamples 1 (Frame:1).
+[2020.11.02-00.16.32:940][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.02-00.16.32:940][  0]LogLoad: (Engine Initialization) Total time: 8.28 seconds
+[2020.11.02-00.16.32:940][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.02-00.16.33:001][  0]LogAssetRegistry: Asset discovery search completed in 5.0557 seconds
+[2020.11.02-00.16.33:007][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2020.11.02-00.16.33:009][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.02-00.16.33:056][  0]LogRenderer: Reallocating scene render targets to support 904x412 Format 10 NumSamples 1 (Frame:2).
+[2020.11.02-00.16.33:056][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.02-00.16.38:139][301]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.02-00.16.38:156][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.02-00.16.38:156][301]PIE: New page: PIE session: level0 (2 нояб. 2020 г., 06:16:38)
+[2020.11.02-00.16.38:157][301]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.11.02-00.16.38:158][301]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.11.02-00.16.38:158][301]LogPlayLevel: Creating play world package: /Game/PlatformerMain/Levels/UEDPIE_0_level0
+[2020.11.02-00.16.38:161][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002399s)
+[2020.11.02-00.16.38:162][301]LogAIModule: Creating AISystem for world level0
+[2020.11.02-00.16.38:162][301]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2020.11.02-00.16.38:162][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PlatformerMain/Levels/level0.level0 to /Game/PlatformerMain/Levels/UEDPIE_0_level0.level0 (0.004118s)
+[2020.11.02-00.16.38:190][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.11.02-00.16.38:191][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.02-00.16.38:191][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.02-00.16.38:192][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.02-00.16.38:192][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.02-00.16.38:192][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.02-00.16.38:192][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.02-00.16.38:192][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.02-00.16.38:192][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.02-00.16.38:192][301]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.02-00.16.38:193][301]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.02-00.16.38:216][301]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.02-00.16.38:216][301]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.11.02-00.16.38:216][301]LogAudioMixer: Display: Is Default: Yes
+[2020.11.02-00.16.38:216][301]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.02-00.16.38:216][301]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.02-00.16.38:216][301]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.02-00.16.38:216][301]LogAudioMixer: Display: Channel Order:
+[2020.11.02-00.16.38:216][301]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.02-00.16.38:216][301]LogAudioMixer: Display: 1: FrontRight
+[2020.11.02-00.16.38:230][301]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.11.02-00.16.38:232][301]LogInit: FAudioDevice initialized.
+[2020.11.02-00.16.38:238][301]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.11.02-00.16.38:240][301]LogWorld: Bringing World /Game/PlatformerMain/Levels/UEDPIE_0_level0.level0 up for play (max tick rate 60) at 2020.11.02-03.16.38
+[2020.11.02-00.16.38:240][301]LogWorld: Bringing up level for play took: 0.000626
+[2020.11.02-00.16.38:240][301]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.11.02-00.16.38:243][301]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.11.02-00.16.38:251][301]PIE: Play in editor start time for /Game/PlatformerMain/Levels/UEDPIE_0_level0 -0,893
+[2020.11.02-00.16.49:693][982]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.02-00.16.49:693][982]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.02-00.16.49:694][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.02-00.16.49:694][982]LogWorld: BeginTearingDown for /Game/PlatformerMain/Levels/UEDPIE_0_level0
+[2020.11.02-00.16.49:694][982]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.02-00.16.49:694][982]LogWorld: UWorld::CleanupWorld for level0, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-00.16.49:694][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-00.16.49:703][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.02-00.16.49:707][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-00.16.49:730][982]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.02-00.16.49:733][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.02-00.16.49:736][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.11.02-00.16.49:800][986]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.11.02-00.16.53:055][179]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.02-00.16.53:360][179]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.11.02-00.16.53:984][179]LogAIModule: Creating AISystem for world StarterMap
+[2020.11.02-00.16.54:172][179]LogObjectTools: Deleting 2 worlds: /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default, /Game/MobileStarterContent/Maps/StarterMap.StarterMap
+[2020.11.02-00.16.54:172][179]LogObjectTools: Currently 2 active worlds: /Game/PlatformerMain/Levels/level0.level0, /Engine/Transient.World_0
+[2020.11.02-00.16.54:201][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.11.02-00.17.51:681][179]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.02-00.19.50:338][179]LogUObjectGlobals: Force Deleting 252 Package(s):
+	Asset Name: /Game/MobileStarterContent/Architecture/Floor_400x400.Floor_400x400
+	Asset Name: /Game/MobileStarterContent/Architecture/Pillar_50x500.Pillar_50x500
+	Asset Name: /Game/MobileStarterContent/Architecture/Wall_400x200.Wall_400x200
+	Asset Name: /Game/MobileStarterContent/Architecture/Wall_400x300.Wall_400x300
+	Asset Name: /Game/MobileStarterContent/Architecture/Wall_400x400.Wall_400x400
+	Asset Name: /Game/MobileStarterContent/Architecture/Wall_500x500.Wall_500x500
+	Asset Name: /Game/MobileStarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+	Asset Name: /Game/MobileStarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+	Asset Name: /Game/MobileStarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+	Asset Name: /Game/MobileStarterContent/Architecture/Wall_Window_400x400.Wall_Window_400x400
+[2020.11.02-00.19.50:345][179]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.02-00.19.51:752][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2020.11.02-00.19.51:753][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Cut_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:753][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:759][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2020.11.02-00.19.51:759][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Cut_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:759][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:764][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2020.11.02-00.19.51:764][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Cut_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:764][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:769][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2020.11.02-00.19.51:770][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Cut_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:770][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:776][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2020.11.02-00.19.51:776][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_Old.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:776][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:782][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2020.11.02-00.19.51:782][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_Old.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:782][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:788][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2020.11.02-00.19.51:789][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_Old.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:789][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:794][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2020.11.02-00.19.51:795][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_Old.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:795][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:801][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2020.11.02-00.19.51:801][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_New.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:801][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:806][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2020.11.02-00.19.51:807][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_New.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:807][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:813][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2020.11.02-00.19.51:813][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_New.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:813][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:818][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2020.11.02-00.19.51:819][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_New.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:819][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:824][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2020.11.02-00.19.51:824][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_New.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:824][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:829][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2020.11.02-00.19.51:830][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_New.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:830][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:837][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2020.11.02-00.19.51:837][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_Beveled.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:837][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:842][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2020.11.02-00.19.51:843][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_Beveled.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:843][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:849][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2020.11.02-00.19.51:849][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_Beveled.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:849][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:855][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2020.11.02-00.19.51:856][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_Beveled.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:856][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:862][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2020.11.02-00.19.51:863][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_Beveled.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:863][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:869][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2020.11.02-00.19.51:869][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Clay_Beveled.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:869][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:870][179]LogMaterial: Warning: None: Requesting an invalid TextureIndex! (2 / 2)
+[2020.11.02-00.19.51:881][179]LogMaterial: Display: Missing cached shader map for material M_TableRound, compiling. 
+[2020.11.02-00.19.51:881][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_TableRound.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:881][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:887][179]LogMaterial: Display: Missing cached shader map for material M_TableRound, compiling. 
+[2020.11.02-00.19.51:887][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_TableRound.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:887][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:893][179]LogMaterial: Display: Missing cached shader map for material M_TableRound, compiling. 
+[2020.11.02-00.19.51:893][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_TableRound.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:893][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.51:898][179]LogMaterial: Display: Missing cached shader map for material M_TableRound, compiling. 
+[2020.11.02-00.19.51:899][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_TableRound.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.51:899][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:009][179]LogMaterial: Display: Missing cached shader map for material M_StatueGlass, compiling. 
+[2020.11.02-00.19.52:010][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_StatueGlass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:010][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:015][179]LogMaterial: Display: Missing cached shader map for material M_StatueGlass, compiling. 
+[2020.11.02-00.19.52:016][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_StatueGlass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:016][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:021][179]LogMaterial: Display: Missing cached shader map for material M_StatueGlass, compiling. 
+[2020.11.02-00.19.52:022][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_StatueGlass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:022][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:029][179]LogMaterial: Display: Missing cached shader map for material M_StatueGlass, compiling. 
+[2020.11.02-00.19.52:030][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_StatueGlass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:030][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:036][179]LogMaterial: Display: Missing cached shader map for material M_Statue, compiling. 
+[2020.11.02-00.19.52:036][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Statue.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:036][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:042][179]LogMaterial: Display: Missing cached shader map for material M_Statue, compiling. 
+[2020.11.02-00.19.52:042][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Statue.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:042][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:048][179]LogMaterial: Display: Missing cached shader map for material M_Statue, compiling. 
+[2020.11.02-00.19.52:048][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Statue.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:048][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:054][179]LogMaterial: Display: Missing cached shader map for material M_Statue, compiling. 
+[2020.11.02-00.19.52:054][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Statue.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:054][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:088][179]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.11.02-00.19.52:089][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Chair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:089][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:094][179]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.11.02-00.19.52:095][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Chair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:095][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:099][179]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.11.02-00.19.52:099][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Chair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:099][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:105][179]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.11.02-00.19.52:105][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Chair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:105][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:129][179]LogMaterial: Display: Missing cached shader map for material M_Spark, compiling. 
+[2020.11.02-00.19.52:130][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_Spark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:130][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:135][179]LogMaterial: Display: Missing cached shader map for material M_Spark, compiling. 
+[2020.11.02-00.19.52:136][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_Spark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:136][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:157][179]LogMaterial: Display: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2020.11.02-00.19.52:158][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:158][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:158][179]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2020.11.02-00.19.52:163][179]LogMaterial: Display: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2020.11.02-00.19.52:163][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:163][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:163][179]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2020.11.02-00.19.52:169][179]LogMaterial: Display: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2020.11.02-00.19.52:169][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:169][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:169][179]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2020.11.02-00.19.52:175][179]LogMaterial: Display: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2020.11.02-00.19.52:176][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:176][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:176][179]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2020.11.02-00.19.52:189][179]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2020.11.02-00.19.52:189][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:189][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:189][179]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2020.11.02-00.19.52:195][179]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2020.11.02-00.19.52:195][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:195][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:195][179]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2020.11.02-00.19.52:201][179]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2020.11.02-00.19.52:202][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:202][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:202][179]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2020.11.02-00.19.52:208][179]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2020.11.02-00.19.52:208][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:208][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:208][179]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2020.11.02-00.19.52:225][179]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2020.11.02-00.19.52:226][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:226][179]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2020.11.02-00.19.52:230][179]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2020.11.02-00.19.52:231][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:231][179]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2020.11.02-00.19.52:237][179]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2020.11.02-00.19.52:238][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_Burst.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:238][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:244][179]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2020.11.02-00.19.52:244][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_Burst.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:244][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:251][179]LogMaterial: Display: Missing cached shader map for material M_Lamp, compiling. 
+[2020.11.02-00.19.52:251][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:251][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:257][179]LogMaterial: Display: Missing cached shader map for material M_Lamp, compiling. 
+[2020.11.02-00.19.52:257][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:257][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:262][179]LogMaterial: Display: Missing cached shader map for material M_Lamp, compiling. 
+[2020.11.02-00.19.52:263][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:263][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:268][179]LogMaterial: Display: Missing cached shader map for material M_Lamp, compiling. 
+[2020.11.02-00.19.52:269][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:269][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:313][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2020.11.02-00.19.52:314][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Hewn_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:314][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:320][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2020.11.02-00.19.52:320][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Hewn_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:320][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:326][179]LogMaterial: Display: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2020.11.02-00.19.52:326][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Brick_Hewn_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:326][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:332][179]LogMaterial: Display: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2020.11.02-00.19.52:332][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Ceramic_Tile_Checker.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:332][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:339][179]LogMaterial: Display: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2020.11.02-00.19.52:340][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Ceramic_Tile_Checker.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:340][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:345][179]LogMaterial: Display: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2020.11.02-00.19.52:346][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Ceramic_Tile_Checker.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:346][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:352][179]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2020.11.02-00.19.52:352][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:352][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:357][179]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2020.11.02-00.19.52:358][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:358][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:365][179]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Rough, compiling. 
+[2020.11.02-00.19.52:365][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_CobbleStone_Rough.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:365][179]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.11.02-00.19.52:365][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:373][179]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Rough, compiling. 
+[2020.11.02-00.19.52:373][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_CobbleStone_Rough.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:373][179]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.11.02-00.19.52:373][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:379][179]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2020.11.02-00.19.52:379][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:379][179]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.11.02-00.19.52:379][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:386][179]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2020.11.02-00.19.52:387][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:387][179]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.11.02-00.19.52:387][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:393][179]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2020.11.02-00.19.52:394][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:394][179]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.11.02-00.19.52:394][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:399][179]LogMaterial: Display: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2020.11.02-00.19.52:400][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Concrete_Grime.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:400][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:405][179]LogMaterial: Display: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2020.11.02-00.19.52:405][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Concrete_Grime.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:405][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:411][179]LogMaterial: Display: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2020.11.02-00.19.52:412][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Concrete_Panels.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:412][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:417][179]LogMaterial: Display: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2020.11.02-00.19.52:418][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Concrete_Panels.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:418][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:430][179]LogMaterial: Display: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2020.11.02-00.19.52:430][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Concrete_Poured.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:430][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:436][179]LogMaterial: Display: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2020.11.02-00.19.52:436][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Concrete_Poured.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:436][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:443][179]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.11.02-00.19.52:443][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:443][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:449][179]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.11.02-00.19.52:450][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:450][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:456][179]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.11.02-00.19.52:456][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:456][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:462][179]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2020.11.02-00.19.52:462][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Ground_Grass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:462][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:468][179]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2020.11.02-00.19.52:468][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Ground_Grass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:468][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:473][179]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2020.11.02-00.19.52:473][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Ground_Gravel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:473][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:479][179]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2020.11.02-00.19.52:479][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Ground_Gravel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:479][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:485][179]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2020.11.02-00.19.52:485][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Ground_Moss.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:485][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:490][179]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2020.11.02-00.19.52:491][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Ground_Moss.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:491][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:496][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Brushed_Nickel, compiling. 
+[2020.11.02-00.19.52:497][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Brushed_Nickel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:497][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:503][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2020.11.02-00.19.52:503][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Burnished_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:503][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:509][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2020.11.02-00.19.52:509][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Burnished_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:509][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:515][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2020.11.02-00.19.52:516][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Chrome.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:516][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:521][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2020.11.02-00.19.52:521][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Chrome.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:521][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:528][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2020.11.02-00.19.52:528][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Copper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:528][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:534][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2020.11.02-00.19.52:534][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Copper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:535][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:540][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2020.11.02-00.19.52:540][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Copper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:540][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:547][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2020.11.02-00.19.52:547][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:548][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:553][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2020.11.02-00.19.52:553][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:553][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:559][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2020.11.02-00.19.52:559][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:559][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:565][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2020.11.02-00.19.52:565][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Rust.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:565][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:571][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2020.11.02-00.19.52:572][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Rust.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:572][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:577][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2020.11.02-00.19.52:578][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Rust.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:578][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:584][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2020.11.02-00.19.52:584][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:584][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:590][179]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2020.11.02-00.19.52:590][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Metal_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:590][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:596][179]LogMaterial: Display: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2020.11.02-00.19.52:596][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Rock_Basalt.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:596][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:602][179]LogMaterial: Display: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2020.11.02-00.19.52:602][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Rock_Basalt.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:602][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:608][179]LogMaterial: Display: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2020.11.02-00.19.52:608][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Rock_Marble_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:608][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:613][179]LogMaterial: Display: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2020.11.02-00.19.52:614][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Rock_Marble_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:614][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:620][179]LogMaterial: Display: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2020.11.02-00.19.52:620][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Rock_Marble_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:620][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:626][179]LogMaterial: Display: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2020.11.02-00.19.52:626][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Rock_Marble_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:626][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:640][179]LogMaterial: Display: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2020.11.02-00.19.52:641][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Rock_Sandstone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:641][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:646][179]LogMaterial: Display: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2020.11.02-00.19.52:647][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Rock_Sandstone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:647][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:654][179]LogMaterial: Display: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2020.11.02-00.19.52:654][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Rock_Slate.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:654][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:660][179]LogMaterial: Display: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2020.11.02-00.19.52:661][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Rock_Slate.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:661][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:666][179]LogMaterial: Display: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2020.11.02-00.19.52:667][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Tech_Checker_Dot.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:667][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:672][179]LogMaterial: Display: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2020.11.02-00.19.52:673][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Tech_Checker_Dot.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:673][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:678][179]LogMaterial: Display: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2020.11.02-00.19.52:678][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Tech_Checker_Dot.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:678][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:683][179]LogMaterial: Display: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2020.11.02-00.19.52:684][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Tech_Checker_Dot.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:684][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:690][179]LogMaterial: Display: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2020.11.02-00.19.52:690][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Tech_Hex_Tile.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:690][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:697][179]LogMaterial: Display: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2020.11.02-00.19.52:697][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Tech_Hex_Tile.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:697][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:703][179]LogMaterial: Display: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2020.11.02-00.19.52:703][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:703][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:710][179]LogMaterial: Display: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2020.11.02-00.19.52:710][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:710][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:715][179]LogMaterial: Display: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2020.11.02-00.19.52:716][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:716][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:721][179]LogMaterial: Display: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2020.11.02-00.19.52:721][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:721][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:727][179]LogMaterial: Display: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2020.11.02-00.19.52:727][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:727][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:732][179]LogMaterial: Display: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2020.11.02-00.19.52:733][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:733][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:739][179]LogMaterial: Display: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2020.11.02-00.19.52:739][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Tech_Panel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:739][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:745][179]LogMaterial: Display: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2020.11.02-00.19.52:746][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Tech_Panel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:746][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:752][179]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2020.11.02-00.19.52:752][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Water_Lake.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:752][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:758][179]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2020.11.02-00.19.52:759][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Water_Ocean.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:759][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:765][179]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2020.11.02-00.19.52:765][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Water_Ocean.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:765][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:770][179]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2020.11.02-00.19.52:771][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Water_Ocean.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:771][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:777][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2020.11.02-00.19.52:777][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:777][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:778][179]LogMaterial: Display: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2020.11.02-00.19.52:778][179]LogMaterial: Display: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2020.11.02-00.19.52:784][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2020.11.02-00.19.52:785][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:785][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:785][179]LogMaterial: Display: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2020.11.02-00.19.52:785][179]LogMaterial: Display: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2020.11.02-00.19.52:790][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2020.11.02-00.19.52:791][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:791][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:791][179]LogMaterial: Display: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2020.11.02-00.19.52:791][179]LogMaterial: Display: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2020.11.02-00.19.52:797][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2020.11.02-00.19.52:797][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:797][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:797][179]LogMaterial: Display: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2020.11.02-00.19.52:797][179]LogMaterial: Display: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2020.11.02-00.19.52:802][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2020.11.02-00.19.52:803][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:803][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:803][179]LogMaterial: Display: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2020.11.02-00.19.52:803][179]LogMaterial: Display: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2020.11.02-00.19.52:809][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2020.11.02-00.19.52:809][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:809][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:809][179]LogMaterial: Display: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2020.11.02-00.19.52:809][179]LogMaterial: Display: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2020.11.02-00.19.52:814][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2020.11.02-00.19.52:815][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:815][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:815][179]LogMaterial: Display: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2020.11.02-00.19.52:815][179]LogMaterial: Display: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2020.11.02-00.19.52:820][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2020.11.02-00.19.52:820][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:820][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:820][179]LogMaterial: Display: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2020.11.02-00.19.52:820][179]LogMaterial: Display: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2020.11.02-00.19.52:825][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2020.11.02-00.19.52:826][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:826][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:826][179]LogMaterial: Display: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2020.11.02-00.19.52:826][179]LogMaterial: Display: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2020.11.02-00.19.52:831][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2020.11.02-00.19.52:832][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Oak.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:832][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:838][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2020.11.02-00.19.52:839][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Oak.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:839][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:849][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2020.11.02-00.19.52:850][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:850][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:856][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2020.11.02-00.19.52:857][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:857][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:863][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2020.11.02-00.19.52:863][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Walnut.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:863][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:868][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2020.11.02-00.19.52:869][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Materials\M_Wood_Walnut.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:869][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:875][179]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2020.11.02-00.19.52:875][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Particles\Materials\M_Dust_Particle.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:875][179]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2020.11.02-00.19.52:888][179]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_0 (/Game/MobileStarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2020.11.02-00.19.52:889][179]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_1 (/Game/MobileStarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2020.11.02-00.19.52:889][179]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_2 (/Game/MobileStarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2020.11.02-00.19.52:889][179]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_3 (/Game/MobileStarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2020.11.02-00.19.52:896][179]LogMaterial: Display: Missing cached shader map for material M_Frame, compiling. 
+[2020.11.02-00.19.52:897][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Frame.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:897][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:902][179]LogMaterial: Display: Missing cached shader map for material M_Frame, compiling. 
+[2020.11.02-00.19.52:902][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Frame.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:902][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:973][179]LogMaterial: Display: Missing cached shader map for material M_Bush, compiling. 
+[2020.11.02-00.19.52:974][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Bush.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:974][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.52:981][179]LogMaterial: Display: Missing cached shader map for material M_Bush, compiling. 
+[2020.11.02-00.19.52:981][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Bush.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.52:981][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.53:015][179]LogMaterial: Display: Missing cached shader map for material M_Door, compiling. 
+[2020.11.02-00.19.53:015][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Door.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.53:015][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.53:021][179]LogMaterial: Display: Missing cached shader map for material M_Door, compiling. 
+[2020.11.02-00.19.53:021][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Door.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.53:021][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.53:205][179]LogMaterial: Display: Missing cached shader map for material M_Rock, compiling. 
+[2020.11.02-00.19.53:205][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.53:205][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.53:210][179]LogMaterial: Display: Missing cached shader map for material M_Rock, compiling. 
+[2020.11.02-00.19.53:211][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.53:211][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.53:216][179]LogMaterial: Display: Missing cached shader map for material M_Rock, compiling. 
+[2020.11.02-00.19.53:217][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.53:217][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.53:223][179]LogMaterial: Display: Missing cached shader map for material M_Rock, compiling. 
+[2020.11.02-00.19.53:224][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.53:224][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.53:239][179]LogMaterial: Display: Missing cached shader map for material M_Shelf, compiling. 
+[2020.11.02-00.19.53:239][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Shelf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.53:239][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.53:244][179]LogMaterial: Display: Missing cached shader map for material M_Shelf, compiling. 
+[2020.11.02-00.19.53:245][179]LogMaterial: Warning: D:\dev\PlatfromerHW\Content\MobileStarterContent\Props\Materials\M_Shelf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.02-00.19.53:245][179]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.02-00.19.53:396][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.11.02-00.21.18:745][179]LogSlate: Window 'Message' being destroyed
+[2020.11.02-00.21.18:750][179]LogObjectTools: Warning: ForceDeleteObject failed to delete Collapse01, this package is now potentially corrupt
+[2020.11.02-00.21.21:897][179]LogSlate: Window 'Message' being destroyed
+[2020.11.02-00.21.21:902][179]LogObjectTools: Warning: ForceDeleteObject failed to delete Collapse02, this package is now potentially corrupt
+[2020.11.02-00.21.22:700][179]LogSlate: Window 'Message' being destroyed
+[2020.11.02-00.21.22:708][179]LogObjectTools: Warning: ForceDeleteObject failed to delete Explosion01, this package is now potentially corrupt
+[2020.11.02-00.21.23:316][179]LogSlate: Window 'Message' being destroyed
+[2020.11.02-00.21.23:322][179]LogObjectTools: Warning: ForceDeleteObject failed to delete Explosion02, this package is now potentially corrupt
+[2020.11.02-00.21.24:167][179]LogSlate: Window 'Message' being destroyed
+[2020.11.02-00.21.24:173][179]LogObjectTools: Warning: ForceDeleteObject failed to delete Fire01, this package is now potentially corrupt
+[2020.11.02-00.21.24:865][179]LogSlate: Window 'Message' being destroyed
+[2020.11.02-00.21.24:870][179]LogObjectTools: Warning: ForceDeleteObject failed to delete Fire_Sparks01, this package is now potentially corrupt
+[2020.11.02-00.21.25:688][179]LogSlate: Window 'Message' being destroyed
+[2020.11.02-00.21.25:695][179]LogObjectTools: Warning: ForceDeleteObject failed to delete Light01, this package is now potentially corrupt
+[2020.11.02-00.21.26:365][179]LogSlate: Window 'Message' being destroyed
+[2020.11.02-00.21.26:370][179]LogObjectTools: Warning: ForceDeleteObject failed to delete Light02, this package is now potentially corrupt
+[2020.11.02-00.21.32:448][179]LogSlate: Window 'Message' being destroyed
+[2020.11.02-00.21.32:454][179]LogObjectTools: Warning: ForceDeleteObject failed to delete Smoke01, this package is now potentially corrupt
+[2020.11.02-00.21.34:261][179]LogSlate: Window 'Message' being destroyed
+[2020.11.02-00.21.34:267][179]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Music01, this package is now potentially corrupt
+[2020.11.02-00.21.42:054][179]LogSlate: Window 'Message' being destroyed
+[2020.11.02-00.21.42:060][179]LogObjectTools: Warning: ForceDeleteObject failed to delete Steam01, this package is now potentially corrupt
+[2020.11.02-00.21.42:528][179]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-00.21.42:529][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-00.21.42:661][179]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-00.21.42:661][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-00.22.08:383][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.11.02-00.22.08:410][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.11.02-00.22.08:440][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.02-00.22.08:465][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.02-00.22.08:490][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.11.02-00.22.08:515][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.02-00.22.08:541][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.08:566][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.08:589][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.08:613][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.08:640][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.08:664][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.08:687][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.08:711][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.08:733][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.08:758][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.08:780][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.08:805][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.08:827][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.02-00.22.08:854][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.02-00.22.08:879][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.02-00.22.08:901][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.02-00.22.08:924][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.08:948][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.08:976][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.11.02-00.22.09:000][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.11.02-00.22.09:025][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.09:047][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.09:078][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.09:103][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.09:129][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.09:154][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.11.02-00.22.09:179][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.02-00.22.09:201][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.02-00.22.09:224][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.09:248][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.09:276][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.09:300][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.02-00.22.09:325][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.02-00.22.09:349][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.02-00.22.09:374][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.11.02-00.22.09:397][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.09:422][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.09:446][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.09:472][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.09:497][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.09:524][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.09:547][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.09:572][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.09:598][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.09:623][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.09:649][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.09:672][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.09:698][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.09:721][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.09:747][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.09:770][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.09:796][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.02-00.22.09:820][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.09:844][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.09:869][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.02-00.22.09:893][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.02-00.22.09:920][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.09:944][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.02-00.22.09:975][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.10:001][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.10:026][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.10:050][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.02-00.22.10:072][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.10:096][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.10:124][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.02-00.22.10:147][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.02-00.22.10:170][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.11.02-00.22.10:192][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.02-00.22.10:218][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.02-00.22.10:241][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.02-00.22.10:265][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.10:289][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.10:314][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.10:340][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.10:363][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.10:388][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.11.02-00.22.10:413][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.10:437][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.02-00.22.10:466][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.02-00.22.10:489][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.10:514][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.10:538][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.10:562][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.10:586][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.10:610][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.10:633][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.02-00.22.10:658][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.11.02-00.22.10:681][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.10:703][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.10:726][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.10:750][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.10:777][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.10:803][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.11.02-00.22.10:827][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.10:850][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.10:875][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.02-00.22.10:900][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.11.02-00.22.10:922][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.10:948][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.02-00.22.10:978][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.11:004][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.11:027][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.02-00.22.11:050][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.11.02-00.22.11:073][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.11:098][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.11:123][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.02-00.22.11:150][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.11:173][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.11:199][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.11:225][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.11.02-00.22.11:249][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.11:273][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.11:298][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.11:321][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.11:344][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.11:369][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.11:393][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.11:421][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.11.02-00.22.11:448][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.11.02-00.22.11:474][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.11:499][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.02-00.22.11:524][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.02-00.22.11:549][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.11:572][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.11:595][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.11:621][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.02-00.22.11:643][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.11:668][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.02-00.22.11:693][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.11:716][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.11:740][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.02-00.22.11:762][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.11:786][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.11:812][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.11:835][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.11:858][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.02-00.22.11:885][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.11:909][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.11:933][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.11.02-00.22.11:964][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.11.02-00.22.11:989][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.11.02-00.22.12:013][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.12:036][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.12:060][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.12:085][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.12:111][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.12:136][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.02-00.22.12:162][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.12:186][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.12:210][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.12:234][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.12:260][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.02-00.22.12:286][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.12:310][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.12:333][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.12:359][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.12:383][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.11.02-00.22.12:406][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.12:431][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.02-00.22.12:456][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.02-00.22.12:480][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.12:505][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.02-00.22.12:529][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.12:553][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.12:578][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.12:602][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.12:627][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.02-00.22.12:652][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.12:676][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.12:700][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.02-00.22.12:727][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.12:750][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.12:777][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.12:801][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.02-00.22.12:824][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.12:848][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.02-00.22.12:873][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.11.02-00.22.12:896][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.12:920][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.12:948][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.02-00.22.12:978][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.13:001][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:029][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.13:053][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:079][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.13:104][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.13:128][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:155][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.11.02-00.22.13:180][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.02-00.22.13:202][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:227][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:252][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.02-00.22.13:276][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:300][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.11.02-00.22.13:326][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:351][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:377][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.13:403][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.13:426][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.13:452][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.13:476][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.13:500][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.13:523][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.13:546][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.02-00.22.13:570][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.13:594][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.13:618][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:642][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:666][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.13:691][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.02-00.22.13:717][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:740][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.02-00.22.13:766][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.13:790][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.13:819][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.13:843][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:868][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:892][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:918][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:943][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.13:970][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.13:993][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.14:019][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.14:043][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.14:069][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.14:094][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.14:118][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.14:142][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.14:168][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.14:192][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.14:216][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.14:242][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.02-00.22.14:265][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.02-00.22.14:289][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.02-00.22.14:313][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-00.22.14:340][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.11.02-00.22.14:366][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-00.22.14:619][179]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.11.02-00.22.15:150][179]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.531 s
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: === Handled ensure: ===
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: 
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2826]
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: 
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: 					from the file system manually: 
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: /Game/MobileStarterContent/Audio/Collapse01
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: /Game/MobileStarterContent/Audio/Collapse02
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: /Game/MobileStarterContent/Audio/Explosion01
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: /Game/MobileStarterContent/Audio/Explosion02
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: /Game/MobileStarterContent/Audio/Fire01
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: /Game/MobileStarterContent/Audio/Fire_Sparks01
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: /Game/MobileStarterContent/Audio/Light01
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: /Game/MobileStarterContent/Audio/Light02
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: /Game/MobileStarterContent/Audio/Smoke01
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: /Game/MobileStarterContent/Audio/Starter_Music01
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: /Game/MobileStarterContent/Audio/Steam01
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: Stack: 
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc4c60538 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.02-00.22.15:150][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc4526e06 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc3d416f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc3fbcde8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc3fb65c4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc8531498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc8549281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc83a323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc8429175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc841413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc8408f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc2f624ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc2f61242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc2f627195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc2f60ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc49b35c1d USER32.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc49b35612 USER32.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc2f628569 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc8434080 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc83d1c85 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc4050fa6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc451a1ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbb5b8876f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbb5b9534e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbb5b9101f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbb5bebeec UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbb5b92164 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc8531498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc8549281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc83a323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc8429175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc841413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffbc8408f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc2f624ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc2f61242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc2f627195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc2f60ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc49b35c1d USER32.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc49b35612 USER32.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc2f628699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ff788916db0 UE4Editor.exe!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ff78892c3ec UE4Editor.exe!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ff78892c4ca UE4Editor.exe!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ff78893ceae UE4Editor.exe!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ff78893fcbe UE4Editor.exe!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc4a157c24 KERNEL32.DLL!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: [Callstack] 0x00007ffc4a78cea1 ntdll.dll!UnknownFunction []
+[2020.11.02-00.22.15:151][179]LogOutputDevice: Error: 
+[2020.11.02-00.22.15:154][179]LogStats:                SubmitErrorReport -  0.000 s
